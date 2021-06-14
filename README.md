@@ -12,7 +12,7 @@ Feature requirements:
 + Provide the **date and time of item addition** (**Umar**)
 + Validate there are **no duplicated items** (i.e. do not accept duplicate inputs)
 + Give users the option to **update list items** (**Praise**)
-+ Give users the option to **delete list items**
++ Give users the option to **delete list items** (**Alice**)
 + Write list object class (Damini)
 
 
