@@ -9,7 +9,7 @@ As a team, you should create and style the front-end of a to-do list web applica
 Feature requirements:
 + **Take in and display** to do list items
 + Allow users to **mark items as complete** (**Chris**)
-+ Provide the **date and time of item addition**
++ Provide the **date and time of item addition** (**Umar**)
 + Validate there are **no duplicated items** (i.e. do not accept duplicate inputs)
 + Give users the option to **update list items**
 + Give users the option to **delete list items**
